@@ -1,0 +1,13 @@
+.app {
+  margin: 20px auto;
+  width: 600px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.2);
+  justify-content: center;
+}
+
+.title {
+  margin-bottom: 15px;
+  text-align: center;
+}
